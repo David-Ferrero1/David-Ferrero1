@@ -12,13 +12,12 @@
     - 🌱 Je révise toutes mes connaissance en Fullstack JS (JS vanilla, ReactJS, NodeJS); 
     - 👨🏽‍💻 Prochaine étape : PHP, BDD, WP, NextJS, Angular, JAVA, PYTHON, GO
     - 💬 Je suis disponible;
-    - ⚡️ Fun-Fact: Je suis réunionnais-italien https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f1f7-1f1ea.png -LOL;
+    - ⚡️ Fun-Fact: Je suis réunionnais-italien <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f1f7-1f1ea.png" alt="La Réunion" title="La Réunion" width="32" height="32">;
     - 📫 Comment me contacter: ferrero_d@hotmail.com;
 
 **Languages and Tools:** 
 
 <p> 
-          Expand Down
   
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
