@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/David-Ferrero1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-ferrero-7ab904ab/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ferrero_d@hotmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/DAVID974F/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/david974f/)
 &nbsp;
 
 **A propos de moi:**
@@ -13,7 +13,7 @@
 - 🌱 Je révise toutes mes connaissance en Fullstack JS (JS vanilla, ReactJS, NodeJS); 
 - 👨🏽‍💻 Prochaine étape : PHP, BDD, WP, NextJS, Angular, JAVA, PYTHON, GO
 - 💬 Je suis disponible;
-- ⚡️ Fun-Fact: Je suis réunionnais-italien<img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f1f7-1f1ea.png" alt="La Réunion" title="La Réunion" width="20" height="20">;
+- ⚡️ Fun-Fact: Je suis réunionnais-italien  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f1f7-1f1ea.png" alt="La Réunion" title="La Réunion" width="20" height="20">;
 - 📫 Comment me contacter: ferrero_d@hotmail.com;
 &nbsp;
 <br/>
