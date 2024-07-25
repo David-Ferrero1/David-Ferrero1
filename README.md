@@ -9,11 +9,12 @@
 **A propos de moi:**
 
 <img width="50%" align="right" alt="Github" src="https://firebasestorage.googleapis.com/v0/b/arishn-portfolio.appspot.com/o/developer.webp?alt=media&token=4b928f0c-9506-4f01-a98f-321f457a7969" />
-    - 🌱 Je révise toutes mes connaissance en Fullstack JS (JS vanilla, ReactJS, NodeJS); 
-    - 👨🏽‍💻 Prochaine étape : PHP, BDD, WP, NextJS, Angular, JAVA, PYTHON, GO
-    - 💬 Je suis disponible;
-    - ⚡️ Fun-Fact: Je suis réunionnais-italien <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f1f7-1f1ea.png" alt="La Réunion" title="La Réunion" width="32" height="32">;
-    - 📫 Comment me contacter: ferrero_d@hotmail.com;
+- 🌱 Je révise toutes mes connaissance en Fullstack JS (JS vanilla, ReactJS, NodeJS); 
+- 👨🏽‍💻 Prochaine étape : PHP, BDD, WP, NextJS, Angular, JAVA, PYTHON, GO
+- 💬 Je suis disponible;
+- ⚡️ Fun-Fact: Je suis réunionnais-italien <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f1f7-1f1ea.png" alt="La Réunion" title="La Réunion" width="20" height="20">;
+- 📫 Comment me contacter: ferrero_d@hotmail.com;
+&nbsp;
 
 **Languages and Tools:** 
 
